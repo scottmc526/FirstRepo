@@ -17,6 +17,7 @@ p {font-weight: 200; font-size: 20px;}
 .meta a:hover {border-bottom: 1px solid #CCFF26; color: #333;}
 #Link1{
   color = red;
+  text-decoration: none;
 }
 #Link2{
   color = blue;
