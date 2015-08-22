@@ -15,15 +15,15 @@ p {font-weight: 200; font-size: 20px;}
 
 .meta {text-transform: uppercase; font-family: Courier New, Quicksand, "Helvetica Neue", "Arial", sans-serif; font-size: 40px; letter-spacing: .15em;}
 .meta a:hover {border-bottom: 1px solid #CCFF26; color: #333;}
-#Link1{
-  color = red;
+#link1 a {
+  color: red;
   text-decoration: none;
 }
-#Link2{
-  color = blue;
+#link2 a {
+  color: blue;
 }
-#Link3 {
-  color = green;
+#link3 a {
+  color: green;
 }
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
